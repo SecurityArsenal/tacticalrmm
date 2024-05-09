@@ -37,4 +37,3 @@ It uses an [agent](https://github.com/amidaware/rmmagent) written in golang and 
 
 ## Installation / Backup / Restore / Usage
 
-### Refer to the [documentation](https://docs.tacticalrmm.com)
